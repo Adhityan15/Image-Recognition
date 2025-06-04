@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right, #e0f7fa, #1ac7de);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 20px;
+    font-size: 16px;
+    color: #000;
+    cursor: pointer;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #00796b;
+    border-radius: 10px;
+}
