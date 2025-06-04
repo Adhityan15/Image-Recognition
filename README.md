@@ -11,5 +11,3 @@ Build an image recognition model that classifies images from Fashion MNIST using
 - Flask
 - HTML, CSS
 - NumPy, Pillow
-
-## 📁 Folder Structure
